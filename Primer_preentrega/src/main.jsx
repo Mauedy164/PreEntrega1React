@@ -7,6 +7,6 @@ import { ItemListContainer } from "./ItemListContainer";
 createRoot(document.getElementById("root")).render(
   <>
   <Navbar/>
-  <ItemListContainer greeting="¡Hola, bienvenido a Cero Tolerancia" />
+  <ItemListContainer greeting="Bienvenido a Cero Tolerancia" />
   </>
 );
